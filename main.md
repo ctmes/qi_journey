@@ -18,8 +18,8 @@ All journies have destinations. While I'd gladly take any quant internship I get
 ### Programming Resources
 ### Soft-skills
 ### Mental math
-#### Zetamac
-#### Tr
+1. **Zetamac**
+2. **TradingInterview**
 
 ## Progress
 ### Mental Math
